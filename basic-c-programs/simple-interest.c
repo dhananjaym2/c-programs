@@ -13,5 +13,5 @@ main() {
 	/* formula for simple interest */
 	simple_interest = principal * number_of_years * rate_of_interest / 100;
 
-	printf("Calculated value of simple_interest = %f", simple_interest);
+	printf("Calculated value of simple_interest = %f\n", simple_interest);
 }
